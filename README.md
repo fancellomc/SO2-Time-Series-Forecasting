@@ -1,7 +1,7 @@
 # SO2 Time Series Forcasting
 
 ## Objective of the project: 
-By using Python and Google Colab, this project consists in predicting the emission of SO2 in the air at the Veolia MAS station in Normandy.
+By using Python, this project consists in predicting the emission of SO2 in the air at the Veolia MAS station in Normandy.
 
 ## Contents 
 
